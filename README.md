@@ -24,12 +24,17 @@ Una vez descargado, en la carpeta del proyecto se debe ejecutar el siguiente com
 ```
 mvn clean package
 ```
+
 * Windows
+
 ![](img/16.png)
+
 ![](img/17.png)
 
 * Linux
+
 ![](img/18.png)
+
 ![](img/19.png)
 
 Para ejecutar el proyecto en Windows se debe usar el comando
@@ -53,40 +58,63 @@ http://localhost:35000
 ### Uso
 
 * Página Principal
+
 Windows
+
 ![](img/1.png)
+
 Linux
+
 ![](img/22.png)
 
 * Página hello
+
 ![](img/3.png)
+
 ![](img/2.png)
+
 ![](img/23.png)
 
 * Página hello con parametros
+
 ![](img/7.png)
+
 ![](img/4.png)
+
 ![](img/5.png)
+
 ![](img/24.png)
 
 * Página sample.html
+
 ![](img/9.png)
+
 ![](img/8.png)
+
 ![](img/6.png)
+
 ![](img/25.png)
 
 * Página sample.css
+
 ![](img/10.png)
+
 ![](img/11.png)
+
 ![](img/26.png)
 
 * Página sample.js
+
 ![](img/13.png)
+
 ![](img/12.png)
+
 ![](img/27.png)
 
 * Página sample.png
+
 ![](img/14.png)
+
 ![](img/15.png)
 
 ## Documentación
